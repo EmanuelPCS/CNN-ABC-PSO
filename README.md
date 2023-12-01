@@ -3,7 +3,7 @@
 
 Project developed in IC (Inteligência Computacional) class.
 
-# Languages/Frameworks/Tools used:
+## Languages/Frameworks/Tools used:
   - Jupiter Notebook;
   - Spyder;
   - Python;
